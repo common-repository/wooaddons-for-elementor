@@ -1,0 +1,480 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wooaddons For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-10 11:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.5"
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: wooaddons-for-elementor.php:323 wooaddons-for-elementor.php:348
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Elementor installation link
+#: wooaddons-for-elementor.php:239 wooaddons-for-elementor.php:251
+#: wooaddons-for-elementor.php:281 wooaddons-for-elementor.php:293
+#, php-format
+msgid "%1$s requires %2$s plugin, which is currently NOT RUNNING  %3$s"
+msgstr ""
+
+#: includes/widgets/products-grid.php:238
+msgid "1"
+msgstr ""
+
+#: includes/widgets/products-grid.php:239
+msgid "2"
+msgstr ""
+
+#: includes/widgets/products-grid.php:240
+msgid "3"
+msgstr ""
+
+#: includes/widgets/products-grid.php:241
+msgid "4"
+msgstr ""
+
+#: includes/widgets/products-grid.php:242
+msgid "6"
+msgstr ""
+
+#: wooaddons-for-elementor.php:242
+msgid "Activate Elementor"
+msgstr ""
+
+#: wooaddons-for-elementor.php:284
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: includes/widgets/products-grid.php:108
+msgid "Add ID Manually"
+msgstr ""
+
+#: includes/widgets/products-grid.php:440
+msgid "Add to card button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:354
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/products-grid.php:202
+msgid "Ascending"
+msgstr ""
+
+#. Description of the plugin
+msgid "Awesome Elementor page builder addons"
+msgstr ""
+
+#: includes/widgets/products-grid.php:511
+#: includes/widgets/products-grid.php:673
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/products-grid.php:731
+#: includes/widgets/products-grid.php:804
+#: includes/widgets/products-grid.php:885
+#: includes/widgets/products-grid.php:1092
+#: includes/widgets/products-grid.php:1131
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:103
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1142
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:660
+#: includes/widgets/products-grid.php:741
+#: includes/widgets/products-grid.php:814
+#: includes/widgets/products-grid.php:913
+#: includes/widgets/products-grid.php:1043
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/products-grid.php:995
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1062
+msgid "Button color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:451
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/products-grid.php:436
+msgid "Button type"
+msgstr ""
+
+#: includes/widgets/products-grid.php:425
+msgid "Cart Button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:924
+msgid "Category style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:362
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/products-grid.php:185
+msgid "Comment count"
+msgstr ""
+
+#: includes/widgets/products-grid.php:251
+msgid "Content Settings"
+msgstr ""
+
+#: includes/widgets/products-grid.php:321
+msgid "Crop Description By Word"
+msgstr ""
+
+#: includes/widgets/products-grid.php:276
+msgid "Crop Title By Word"
+msgstr ""
+
+#: includes/widgets/products-grid.php:166
+msgid "Custom order"
+msgstr ""
+
+#: includes/widgets/products-grid.php:182
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/products-grid.php:201
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/products-grid.php:764
+msgid "Description"
+msgstr ""
+
+#: wooaddons-for-elementor.php:241 wooaddons-for-elementor.php:253
+#: wooaddons-for-elementor.php:325
+msgid "Elementor"
+msgstr ""
+
+#. Author of the plugin
+msgid "elementpress"
+msgstr ""
+
+#: includes/widgets/products-grid.php:102
+msgid "Featured Products"
+msgstr ""
+
+#: includes/functions.php:175
+msgid "Featured!"
+msgstr ""
+
+#: includes/widgets/products-grid.php:97
+msgid "Filter By"
+msgstr ""
+
+#: includes/widgets/products-grid.php:215
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/widgets/products-grid.php:221
+msgid "Grid Style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1106
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/nalam-1"
+msgstr ""
+
+#: includes/widgets/products-grid.php:181
+msgid "ID"
+msgstr ""
+
+#: includes/widgets/products-grid.php:584
+msgid "Image auto height"
+msgstr ""
+
+#: includes/widgets/products-grid.php:615
+msgid "Image div Height"
+msgstr ""
+
+#: includes/widgets/products-grid.php:594
+msgid "Image Height"
+msgstr ""
+
+#: includes/widgets/products-grid.php:548
+msgid "Image style"
+msgstr ""
+
+#: wooaddons-for-elementor.php:254
+msgid "Install Elementor"
+msgstr ""
+
+#: wooaddons-for-elementor.php:296
+msgid "Install woocommerce"
+msgstr ""
+
+#: includes/widgets/products-grid.php:480
+msgid "Layout style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:358
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/products-grid.php:499
+#: includes/widgets/products-grid.php:648
+#: includes/widgets/products-grid.php:710
+#: includes/widgets/products-grid.php:783
+#: includes/widgets/products-grid.php:853
+#: includes/widgets/products-grid.php:933
+#: includes/widgets/products-grid.php:1014
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/products-grid.php:183
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/products-grid.php:180
+msgid "None"
+msgstr ""
+
+#: includes/widgets/products-grid.php:1073
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/products-grid.php:587
+msgid "Off"
+msgstr ""
+
+#: includes/widgets/products-grid.php:586
+msgid "On"
+msgstr ""
+
+#: includes/widgets/products-grid.php:197
+msgid "order"
+msgstr ""
+
+#: includes/widgets/products-grid.php:176
+msgid "Orderby"
+msgstr ""
+
+#: includes/widgets/products-grid.php:488
+#: includes/widgets/products-grid.php:637
+#: includes/widgets/products-grid.php:699
+#: includes/widgets/products-grid.php:772
+#: includes/widgets/products-grid.php:864
+#: includes/widgets/products-grid.php:1003
+msgid "Padding"
+msgstr ""
+
+#: wooaddons-for-elementor.php:350
+msgid "PHP"
+msgstr ""
+
+#: includes/widgets/products-grid.php:152
+msgid "Product Categories"
+msgstr ""
+
+#: includes/widgets/products-grid.php:130
+msgid "Product IDs"
+msgstr ""
+
+#: includes/widgets/products-grid.php:142
+msgid "Product Limit"
+msgstr ""
+
+#: includes/widgets/products-grid.php:691
+msgid "Product Title"
+msgstr ""
+
+#: wooaddons-for-elementor.php:240 wooaddons-for-elementor.php:252
+#: wooaddons-for-elementor.php:282 wooaddons-for-elementor.php:294
+#: wooaddons-for-elementor.php:324 wooaddons-for-elementor.php:349
+msgid "products Addons For Elementor"
+msgstr ""
+
+#: includes/widgets/products-grid.php:844
+msgid "Products Badge"
+msgstr ""
+
+#: includes/widgets/products-grid.php:385
+#: includes/widgets/products-grid.php:837
+msgid "Products Meta"
+msgstr ""
+
+#: includes/widgets/products-grid.php:90
+msgid "Products Query"
+msgstr ""
+
+#: includes/widgets/products-grid.php:521
+msgid "Radius"
+msgstr ""
+
+#: includes/widgets/products-grid.php:186
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/products-grid.php:106
+msgid "Random Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:972
+msgid "Rating star Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:982
+msgid "Rating star Fill Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:964
+msgid "Rating Style"
+msgstr ""
+
+#: includes/widgets/products-grid.php:101
+msgid "Recent Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:366
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/products-grid.php:104
+msgid "Sale Products"
+msgstr ""
+
+#: includes/functions.php:169
+msgid "Sale!"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Select"
+msgstr ""
+
+#: includes/widgets/products-grid.php:116
+msgid "Select Product"
+msgstr ""
+
+#: includes/widgets/products-grid.php:393
+msgid "Show Badge"
+msgstr ""
+
+#: includes/widgets/products-grid.php:344
+msgid "Show button"
+msgstr ""
+
+#: includes/widgets/products-grid.php:107
+msgid "Show By Id"
+msgstr ""
+
+#: includes/widgets/products-grid.php:402
+msgid "Show Category"
+msgstr ""
+
+#: includes/widgets/products-grid.php:312
+msgid "Show Product Description"
+msgstr ""
+
+#: includes/widgets/products-grid.php:334
+msgid "Show Product Price"
+msgstr ""
+
+#: includes/widgets/products-grid.php:267
+msgid "Show Product Title"
+msgstr ""
+
+#: includes/widgets/products-grid.php:259
+msgid "Show Products image"
+msgstr ""
+
+#: includes/widgets/products-grid.php:234
+msgid "Show Products Per Row"
+msgstr ""
+
+#: includes/widgets/products-grid.php:412
+msgid "Show Ratting"
+msgstr ""
+
+#: includes/widgets/products-grid.php:225
+msgid "Style One"
+msgstr ""
+
+#: includes/widgets/products-grid.php:227
+msgid "Style Three"
+msgstr ""
+
+#: includes/widgets/products-grid.php:226
+msgid "Style Two"
+msgstr ""
+
+#: includes/widgets/products-grid.php:721
+#: includes/widgets/products-grid.php:794
+#: includes/widgets/products-grid.php:875
+#: includes/widgets/products-grid.php:944
+#: includes/widgets/products-grid.php:1080
+#: includes/widgets/products-grid.php:1120
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/products-grid.php:184
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/products-grid.php:289
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/widgets/products-grid.php:105
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/widgets/products-grid.php:754
+#: includes/widgets/products-grid.php:827
+#: includes/widgets/products-grid.php:897
+#: includes/widgets/products-grid.php:956
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/products-grid.php:441
+#: includes/widgets/products-grid.php:454
+#: includes/widgets/products-grid.php:455
+msgid "View details"
+msgstr ""
+
+#: includes/widgets/products-grid.php:31
+msgid "WA Products Card"
+msgstr ""
+
+#: includes/widgets/products-grid.php:555
+msgid "Width"
+msgstr ""
+
+#: wooaddons-for-elementor.php:181
+msgid "Woo Addons"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wooaddons For Elementor"
+msgstr ""
+
+#: wooaddons-for-elementor.php:283 wooaddons-for-elementor.php:295
+msgid "woocommerce"
+msgstr ""

@@ -1,0 +1,195 @@
+a {
+    transition: 0.3s;
+}
+.woopg-product-price del {
+    color: red;
+    opacity: 0.5;
+}
+.wae-has-hover {
+    position: relative;
+}
+.wae-card {
+    overflow: hidden;
+}
+.wae-hover {
+    transform:scale(0);
+    visibility: inherit;
+    transition: 0.2s;
+}
+.wae-imghover{
+  transition: 0.5s;
+}
+.wae-has-hover:hover .wae-hover {
+    transform:scale(1);
+    opacity: 1;
+    visibility: visible;
+}
+.woopg-card-text .wae-category a{
+  display: inline-block;
+}
+.wooaddons-no-rating {
+    min-height: 25px;
+}
+.flex-right {
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.flex-center {
+    align-items: center;
+    justify-content: center;
+}
+.wae-rating {
+    display: inline-block;
+}
+.wae-shadow {
+    border-radius: 2px;
+    -webkit-box-shadow: 0 0.2rem 2.8rem rgba(36,36,36,.1);
+            box-shadow: 0 0.2rem 2.8rem rgba(36,36,36,.1);
+}
+.wae-card .wae-card-img,
+.wae-card .wae-card-text {
+    padding: 1.2rem 1.2rem 2.5rem;
+}
+.wae-card .wae-card-img {
+    padding-bottom: 0.5rem;
+}
+.wae-category a {
+    color: #9E9E9E;
+    font-size: 90%;
+}
+
+.wae-category a:hover {
+    color: #111;
+}
+.wae-ptitle {
+    font-size: 20px;
+    margin: 0.3rem 0 0.8rem;
+    line-height: 20px;
+}
+a.wae-ptitle-link {
+    color: #555;
+}
+a.wae-ptitle-link:hover {
+    color: #000;
+}
+.wooaddons-badge {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 11;
+    background: darkcyan;
+    color: #fff;
+    padding: 2px 7px;
+    font-size: 12px;
+    border-radius: 10px;
+}
+/*Woocommerce star rating*/
+.woopg-product-rating {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 0 0.5rem 0;
+}
+
+.woopg-product-rating .wd-product-ratting {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  margin-left: -3px;
+  margin-right: -3px;
+}
+
+.woopg-product-rating .wd-product-ratting i {
+  font-size: 13px;
+  line-height: 14px;
+  font-weight: 400;
+  padding-left: 3px;
+  padding-right: 3px;
+  color: #aaaaaa;
+}
+
+.woopg-product-rating .wd-product-ratting i:last-child {
+  margin-right: 0;
+}
+
+.woopg-product-rating .wd-product-ratting .wd-product-user-ratting {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  left: 5px;
+  top: 0;
+  z-index: 3;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.woopg-product-rating .wd-product-ratting .wd-product-user-ratting i {
+  color: #dc9a0e;
+}
+/*Style two*/
+
+.wae-items.style2 .woopg-card-img,
+.wae-items.style3 .woopg-card-img {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.wae-items.style2 .woopg-card-img figure img,
+.wae-items.style3 .woopg-card-img figure img {
+    width: 100%;
+}
+
+.wae-items.style2 .woocommerce.woopg-cart-btn {
+    position: absolute;
+    bottom: -40px;
+    left: 0;
+    right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    opacity: 0;
+    transition:0.3s
+}
+
+.wae-items.style2 .woopg-card:hover .woocommerce.woopg-cart-btn {
+    bottom:10px;
+    opacity:1
+}
+.wae-items.style2 .wooaddons-badge {
+    position: absolute;
+    top: 0;
+    left: -40px;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    opacity: 0;
+    transition:0.3s
+}
+
+.wae-items.style2 .woopg-card:hover .wooaddons-badge {
+    left:2px;
+    opacity:1
+}
+.wae-items.style2 .woocommerce.woopg-cart-btn a.button {
+    border-radius: 20px;
+    background: #000;
+    color: #fff;
+    padding: 12px 24px;
+}
+.wae-items.style2 .woopg-card img {
+    transform: scale(1);
+    transition: 0.5s;
+}
+.wae-items.style2 .woopg-card:hover img {
+    transform: scale(1.1);
+}
+.wae-items.style2 .woopg-card figure {
+    overflow: hidden;
+}
